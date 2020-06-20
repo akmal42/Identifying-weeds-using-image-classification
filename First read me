@@ -1,0 +1,19 @@
+
+https://www.kaggle.com/fpeccia/weed-detection-in-soybean-crops/kernels
+Here is the dataset download link.
+
+Step 1 :
+After downloading the dataset to collab,extract it.
+
+Step 2 :
+Create training and testing directories.
+Each of the directories should contain 4 subdirectories called broad,grass,soil,soybean.
+
+Step 3 :
+Split the dataset into 80% and 20% for training and testing directories respectively.
+
+Step 4:
+Build convolution models and attain its accuracy by tuning the hyper parameters.
+
+Step 5 :
+After building of the model is done, for testing, create another folder called “testing_outputs” and upload your images other than the dataset collected for testing.
